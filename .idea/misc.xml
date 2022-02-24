@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/activity_add_product.xml" value="0.1" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/activity_admin_login.xml" value="0.25" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/activity_product_detail.xml" value="0.33" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/add_product_dialogue.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/app_bar_home.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/change_order_status_diaglog.xml" value="0.22" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/content_home.xml" value="0.2" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/fragment_orders.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/fragment_users.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/nav_header_home.xml" value="0.25" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/order_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/product_list_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/show_order_product_dialog.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/show_order_products_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/layout/user_list_layout.xml" value="0.25" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/menu/activity_home_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/menu/home.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/shinichi/Documents/GroceryStoreAdmin-master/app/src/main/res/menu/product_detail_menu.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/shinichi/Documents/ucuadmin/app/src/main/res/menu/activity_home_drawer.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
